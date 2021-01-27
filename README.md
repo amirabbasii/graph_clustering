@@ -1,1 +1,1 @@
-# graph_clustering
+As we know, recommender systems play an effective role in business applications. For example, social networks use a variety of algorithms to find close people with a user or, for example, in an application software, can be used. He suggested a list of programs tailored to his interests. In this project, using an algorithm on a graph, this can be done and the graph can be divided into different parts. Each part is a part and has a member of Each section can have similar members
